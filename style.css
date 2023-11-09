@@ -1,0 +1,31 @@
+body{
+    background-color: #0f0e17;
+    align-items: center;
+    }
+    
+    img{
+     width: 200px;
+    height: auto;
+    justify-content: center;
+    }
+    
+    
+    button{
+     justify-content: center;
+     width: 250px;
+     gap: 30px;
+     background-color: #ff8906;
+    }
+    
+    h1{
+       text-align: center;
+    }
+    
+    
+    .wepons{
+       display: flex;
+       gap: 30px;
+       align-items: center;
+       justify-content: center
+       }
+        
