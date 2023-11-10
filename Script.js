@@ -4,6 +4,7 @@ let person = prompt("hva heter du???");
  person;  
 
 
+ 
  function playGame(userChoice) {
     const choices = ['rock', 'paper', 'scissors'];
     const computerChoice = choices[Math.floor(Math.random() * choices.length)];
