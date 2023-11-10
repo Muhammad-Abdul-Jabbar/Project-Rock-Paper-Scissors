@@ -3,8 +3,6 @@ let person = prompt("hva heter du???");
  document.getElementById("ditnavn").innerHTML = 
  person;  
 
-
- 
  function playGame(userChoice) {
     const choices = ['rock', 'paper', 'scissors'];
     const computerChoice = choices[Math.floor(Math.random() * choices.length)];
@@ -21,7 +19,10 @@ function determineWinner(userChoice, computerChoice) {
         (userChoice === 'scissors' && computerChoice === 'paper')
     ) {
         return "DU VANT!";
+       
     } else {
         return "DU TAPTE!";
+      
     }
 }
+
