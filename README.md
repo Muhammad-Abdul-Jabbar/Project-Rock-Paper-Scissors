@@ -1,3 +1,4 @@
 # Project-Rock-Paper-Scissors
 lager et spill med JavaScript 
-live: https://culturedinconsequentialcustomer.jabbarbilal.repl.co/
+
+live: https://project-rock-paper-scissors.jabbarbilal.repl.co/
