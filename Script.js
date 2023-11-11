@@ -18,11 +18,11 @@ function determineWinner(userChoice, computerChoice) {
         (userChoice === 'paper' && computerChoice === 'rock') ||
         (userChoice === 'scissors' && computerChoice === 'paper')
     ) {
-        return "DU VANT!";
-       
+       return "DU VANT!";
     } else {
         return "DU TAPTE!";
       
     }
 }
+
 
